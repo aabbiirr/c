@@ -1,0 +1,16 @@
+[
+  {
+    "id": "premium-001",
+    "key": "PREMIUM-2345-1234-9876",
+    "type": "premium",
+    "status": "active",
+    "expiration_date": "2024-12-31"
+  },
+  {
+    "id": "trial-001",
+    "key": "TRIAL-XXXX-XXXX-XXXX",
+    "type": "trial",
+    "status": "active",
+    "expiration_date": "2023-12-31"
+  }
+]
