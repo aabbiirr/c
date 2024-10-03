@@ -3,7 +3,7 @@
     "id": "premium-001",
     "key": "PREMIUM-2345-1234-9876",
     "type": "premium",
-    "status": "active",
+    "status": "inactive",
     "expiration_date": "2024-12-31"
   },
   {
