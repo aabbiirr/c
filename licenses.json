@@ -1,9 +1,9 @@
 [
   {
-    "id": "premium-001",
+    "id": "premium-002",
     "key": "PREMIUM-2345-1234-9876",
     "type": "premium",
-    "status": "inactive",
+    "status": "active",
     "expiration_date": "2024-12-31"
   },
   {
